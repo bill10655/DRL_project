@@ -5,10 +5,10 @@
 - 資科四 106703055 黃浩瑋 
 - 資管碩一 109356011 簡琬玲 
 - 資管碩一 109356024 蘇品維 
----
+
 ### Result
 ![](https://github.com/bill10655/DRL_project/blob/main/Result/trend.png)
----
+
 ### Reference
 
 1. https://www.itread01.com/content/1548044844.html--  (深度強化學習——連續動作控制DDPG、NAF )
